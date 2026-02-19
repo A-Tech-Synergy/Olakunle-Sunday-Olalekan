@@ -1,15 +1,19 @@
 # 👋 Hello, I'm Olakunle Sunday Olalekan
 
-## 🚀 IT Consultant | Software & Media Technology Specialist | Data Scientist | Technical Writer | Hardware & IoT Expert
- 
-I am passionate about building practical systems, intelligent tools, and data-driven solutions that solve real-world problems and empower businesses and individuals.
+## 🚀 IT Consultant | Software & Media Technology Specialist | Data Scientist | Technical Writer | Hardware & IoT Expert  
+
+**Slogan:** *Creating Values Through Tech Synergies*
+
+Founder of **A-Tech** — delivering innovative solutions across software, automation, networking, AI, data analysis, data science, digital media, hardware, gadgets, IoT, and computing devices.
+
+I am passionate about building practical systems, intelligent tools, and data‑driven solutions that solve real‑world problems and empower businesses and individuals.
 
 ---
 
 ## 🧠 Areas of Expertise
 
 - 💻 Software Development (Web, Desktop, Automation)  
-- 🌐 Full-Stack Web Development (Frontend & Backend)  
+- 🌐 Full‑Stack Web Development (Frontend & Backend)  
 - ⚙️ Automation & Scripting  
 - 🖥️ Networking & IT Infrastructure  
 - 📊 Data Analysis & Data Science  
@@ -28,7 +32,7 @@ I am passionate about building practical systems, intelligent tools, and data-dr
 Python • R • JavaScript • HTML • CSS • SQL • Bash  
 
 **Frameworks & Technologies:**  
-Node.js • React • Django • Flask • Bootstrap • Pandas • NumPy • Scikit-Learn • REST APIs  
+Node.js • React • Django • Flask • Bootstrap • Pandas • NumPy • Scikit‑Learn • REST APIs  
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Linux • Windows • Docker (Learning)  
@@ -48,23 +52,23 @@ Hardware Tools • IoT Devices • Computing Device Integration
 - 🔹 Media Technology & Digital Tools  
 - 🔹 Hardware & IoT Projects  
 - 🔹 Technical Writing & Documentation  
-- 🔹 Business Management Systems  
+- 🔹 Business & Enterprise Systems  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Tech-Synergy&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Tech-Synergy&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌍 Professional Vision
 
-My goal is to be a leading technology consultant and specialist delivering intelligent, data-driven solutions that combine:
+My goal is to be a leading technology consultant and specialist delivering intelligent, data‑driven solutions that combine:
 
-Software • Automation • AI • Networking • Data Science & Analysis • Media Technology • Hardware & IoT • Technical Writing
+**Software • Automation • AI • Networking • Data Science & Analysis • Media Technology • Hardware & IoT • Technical Writing**
 
 **Slogan:** *Creating Values Through Tech Synergies*
 
@@ -72,16 +76,21 @@ Software • Automation • AI • Networking • Data Science & Analysis • Me
 
 ## 📫 Contact
 
-- Emails: olakunle4sunday@gmail.com, Olakunle4olalekan@gmail.com, creating.tech.synergy@gmail.com  
-- Phone: 07036527605, 09049728284  
-- Instagram: [i_am_olakunle_olalekan](https://instagram.com/i_am_olakunle_olalekan)  
-- Facebook: [Olakunle Sunday Olalekan](https://facebook.com/OlakunleSundayOlalekan)  
-- YouTube: [Olakunle Sunday Olalekan](https://youtube.com/@OlakunleSundayOlalekan)  
-- LinkedIn: [Olakunle Sunday Olalekan](https://linkedin.com/in/OlakunleSundayOlalekan)  
+**Emails:**  
+✉️ olakunle4sunday@gmail.com  
+✉️ olakunle4olalekan@gmail.com  
+✉️ creating.tech.synergy@gmail.com  
+
+**Phones:**  
+📱 07036527605  
+📱 09049728284  
+
+**Socials:**  
+🔹 Instagram: [i_am_olakunle_olalekan](https://instagram.com/i_am_olakunle_olalekan)  
+🔹 Facebook: [Olakunle Sunday Olalekan](https://facebook.com/OlakunleSundayOlalekan)  
+🔹 YouTube: [Olakunle Sunday Olalekan](https://youtube.com/@OlakunleSundayOlalekan)  
+🔹 LinkedIn: [Olakunle Sunday Olalekan](https://linkedin.com/in/OlakunleSundayOlalekan)
 
 ---
 
-⭐️ *Building technology and data-driven solutions that make life, work, and business better.*
-
-**Slogan:** *Creating Values Through Tech Synergies*
-
+⭐️ *Building technology and data‑driven solutions that make life, work, and business better.*
