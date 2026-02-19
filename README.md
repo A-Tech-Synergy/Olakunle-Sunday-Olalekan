@@ -81,9 +81,6 @@ My goal is to be a leading technology consultant and specialist delivering intel
 ✉️ olakunle4olalekan@gmail.com  
 ✉️ creating.tech.synergy@gmail.com  
 
-**Phones:**  
-📱 07036527605  
-📱 09049728284  
 
 **Socials:**  
 🔹 Instagram: [i_am_olakunle_olalekan](https://instagram.com/i_am_olakunle_olalekan)  
@@ -92,5 +89,6 @@ My goal is to be a leading technology consultant and specialist delivering intel
 🔹 LinkedIn: [Olakunle Sunday Olalekan](https://linkedin.com/in/OlakunleSundayOlalekan)
 
 ---
+> For business inquiries, please reach out via email or socials.
 
 ⭐️ *Building technology and data‑driven solutions that make life, work, and business better.*
